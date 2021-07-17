@@ -1,0 +1,65 @@
+/* COMMON */
+section{
+      overflow: hidden;
+}
+/* TABLE STYLE */
+ .summery__title {
+      font-size: 30px;
+      font-weight: 300;
+      color: #767676;
+      text-align: center;
+      padding:50px 0 10px 0;
+   }
+
+   table{
+      width:100%;
+      margin: 0 auto;
+  }
+
+  .table-form {
+      width: 88%;
+      margin: 0 auto;
+      margin-bottom: 38px;
+      border-collapse: collapse;
+      border: 1px solid #767676;
+  }
+  .table-form caption {
+        margin: 15px 0;
+  }
+
+  h3 img{
+        position: relative;
+        top: 38px;
+  }
+
+   .table-form td{
+      border: 1px solid black;
+      box-sizing: border-box;
+    }
+    
+   .table-form th,td{
+      border: 1px solid black;
+      padding: 10px 5px;
+      text-align: center;
+      box-sizing: border-box;
+
+    }
+
+
+  .table-form thead{
+      background: #ccc;
+      font-weight: 500;
+  }
+
+
+  .table-form td>p {
+      padding:10px;
+  }
+
+   .table-form td{
+      box-sizing: border-box;
+  }
+
+
+
+
